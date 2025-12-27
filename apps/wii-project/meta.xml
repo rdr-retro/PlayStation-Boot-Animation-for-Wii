@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Wii Project</name>
+  <coder>Developer</coder>
+  <version>1.0</version>
+  <release_date>20251226</release_date>
+  <short_description>Custom Wii Animation</short_description>
+  <long_description>A custom Wii homebrew application featuring 3D models and sprite animations with PS1-style effects.</long_description>
+</app>
